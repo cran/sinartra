@@ -1,0 +1,5 @@
+* absolute paths should be preserved (don't prefer)
+* more R like interface
+* vignette explaining how it works
+* complete other HTTP verbs
+* layout templates
